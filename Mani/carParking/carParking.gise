@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="carParking.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="carParking.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="carParking.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="carParking.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="carParking.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="carParking.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="carParking.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="carParking.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="carParking.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="carParking.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="carParking.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="carParking.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="carParking.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="carParking.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="carParking.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="carParking.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="carParking.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="carParking.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="carParking.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="carParking.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="carParking_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="carParking_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="carParking_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="carParking_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="carParking_isim_beh.wdb"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="carParking_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="carParking_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="carParking_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="carParking_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="carParking_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="carParking_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="carParking_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="carParking_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="carParking_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="carParking_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="carParking_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="carParking_usage.xml"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="carParking_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="carParking_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="test2_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1457015131" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1457015131">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1457015940" xil_pn:in_ck="-5963488852366276137" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1457015940">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="carParking.vhd"/>
+      <outfile xil_pn:name="test2.vhd"/>
+      <outfile xil_pn:name="test3.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1457015940" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="978003088178242639" xil_pn:start_ts="1457015940">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1457015940" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-2103863964715853231" xil_pn:start_ts="1457015940">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1457015131" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="627707988846810968" xil_pn:start_ts="1457015131">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1457015940" xil_pn:in_ck="-5963488852366276137" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1457015940">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="carParking.vhd"/>
+      <outfile xil_pn:name="test2.vhd"/>
+      <outfile xil_pn:name="test3.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1457015945" xil_pn:in_ck="-5963488852366276137" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-969018256489602455" xil_pn:start_ts="1457015940">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="carParking_beh.prj"/>
+      <outfile xil_pn:name="carParking_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1457015945" xil_pn:in_ck="-5016412900508195374" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="8908014221350536556" xil_pn:start_ts="1457015945">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="carParking_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:end_ts="1457013026" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1457013025">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1457013026" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="1075527560005079121" xil_pn:start_ts="1457013026">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1457013026" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="627707988846810968" xil_pn:start_ts="1457013026">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1457013026" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1457013026">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1457013026" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="978003088178242639" xil_pn:start_ts="1457013026">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1457013026" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="-3893270297158069842" xil_pn:start_ts="1457013026">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1457013026" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-6778020771027590110" xil_pn:start_ts="1457013026">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1457015108" xil_pn:in_ck="8859123300299563026" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="-1811507804970176321" xil_pn:start_ts="1457015100">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="carParking.lso"/>
+      <outfile xil_pn:name="carParking.ngc"/>
+      <outfile xil_pn:name="carParking.ngr"/>
+      <outfile xil_pn:name="carParking.prj"/>
+      <outfile xil_pn:name="carParking.stx"/>
+      <outfile xil_pn:name="carParking.syr"/>
+      <outfile xil_pn:name="carParking.xst"/>
+      <outfile xil_pn:name="carParking_vhdl.prj"/>
+      <outfile xil_pn:name="carParking_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1457015182" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="7665504755765237882" xil_pn:start_ts="1457015182">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1457015193" xil_pn:in_ck="8859123300299554280" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-6101313457859769797" xil_pn:start_ts="1457015182">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="carParking.bld"/>
+      <outfile xil_pn:name="carParking.ngd"/>
+      <outfile xil_pn:name="carParking_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1457015210" xil_pn:in_ck="8859123300299554281" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="-1309755933173654900" xil_pn:start_ts="1457015193">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="carParking.pcf"/>
+      <outfile xil_pn:name="carParking_map.map"/>
+      <outfile xil_pn:name="carParking_map.mrp"/>
+      <outfile xil_pn:name="carParking_map.ncd"/>
+      <outfile xil_pn:name="carParking_map.ngm"/>
+      <outfile xil_pn:name="carParking_map.xrpt"/>
+      <outfile xil_pn:name="carParking_summary.xml"/>
+      <outfile xil_pn:name="carParking_usage.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1457015232" xil_pn:in_ck="6403443875349879170" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="-5563652517805085498" xil_pn:start_ts="1457015210">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+      <outfile xil_pn:name="carParking.ncd"/>
+      <outfile xil_pn:name="carParking.pad"/>
+      <outfile xil_pn:name="carParking.par"/>
+      <outfile xil_pn:name="carParking.ptwx"/>
+      <outfile xil_pn:name="carParking.unroutes"/>
+      <outfile xil_pn:name="carParking.xpi"/>
+      <outfile xil_pn:name="carParking_pad.csv"/>
+      <outfile xil_pn:name="carParking_pad.txt"/>
+      <outfile xil_pn:name="carParking_par.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1457015232" xil_pn:in_ck="8859123300299554149" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416187" xil_pn:start_ts="1457015228">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+      <outfile xil_pn:name="carParking.twr"/>
+      <outfile xil_pn:name="carParking.twx"/>
+    </transform>
+  </transforms>
+
+</generated_project>

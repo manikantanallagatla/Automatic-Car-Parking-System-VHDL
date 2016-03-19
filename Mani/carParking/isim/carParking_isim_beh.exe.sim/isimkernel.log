@@ -1,0 +1,29 @@
+Command line:
+   carParking_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51193
+
+Thu Mar 03 20:09:06 2016
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 361.722 Meg
+
+ Total Signals          : 6
+ Total Nets             : 24
+ Total Signal Drivers   : 2
+ Total Blocks           : 5
+ Total Primitive Blocks : 5
+ Total Processes        : 2
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 525
+Total Line Count : 18
+
+ Total Simulation Time: 150.484 sec
+
+ Current Memory Usage: 361.722 Meg
+
+Thu Mar 03 20:12:21 2016
+

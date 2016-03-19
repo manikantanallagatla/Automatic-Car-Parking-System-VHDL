@@ -1,0 +1,20 @@
+ISim log file
+Running: C:\Users\Aditya\carParking\carParking_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Aditya/carParking/carParking_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# isim force add /carparking/a 1 -radix bin -value 0 -radix bin -time 2500 fs -repeat 5 ps
+# isim force add /carparking/b 1 -radix bin -value 0 -radix bin -time 25 ps -repeat 50 ps
+# isim force add /carparking/reset 1 -radix bin -value 0 -radix bin -time 250 ps -repeat 500 ps
+# isim force add /carparking/clock 1 -radix bin -value 0 -radix bin -time 2500 fs -repeat 5 ps
+# isim force add /carparking/clock 1 -radix bin -value 0 -radix bin -time 2500 fs -repeat 5 ps
+# run all
+Stopped at time : 405899500 ps : File "C:/Users/Aditya/carParking/carParking.vhd" Line 22
