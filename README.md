@@ -1,8 +1,8 @@
-#***Automatic-Car-Parking-System-VHDL***:
+# ***Automatic-Car-Parking-System-VHDL***:
 
 
 ----------
-###*Aim*:
+### *Aim*:
 
 ----------
 
@@ -16,21 +16,21 @@ Use of automated system for car parking monitoring will reduce human efforts.
 
 
 -------------
-###*Softwares Used*:
+### *Softwares Used*:
 
 -------------
 
 Xilinx 14.2
 
 -------------
-###*Languages Written*:
+### *Languages Written*:
 
 -------------
 
 VHDL
 
 -------------
-###*Usage*:
+### *Usage*:
 
 -------------
 
